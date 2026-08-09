@@ -8,8 +8,6 @@ goes to sleep. It is not a compositor, a desktop component, a slideshow
 player or an animation engine. Once the wallpaper is committed the
 process does nothing until the compositor or a signal wakes it.
 
-![The four scaling modes](screenshots/scaling-modes.png)
-
 *Read this in [Português (Brasil)](README.pt-BR.md).*
 
 ## Design
