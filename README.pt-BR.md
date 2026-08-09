@@ -9,8 +9,6 @@ desktop, player de slides ou mecanismo de animação. Depois que o
 wallpaper é enviado ao compositor, o processo permanece bloqueado até
 que o compositor ou um sinal o acorde.
 
-![Os quatro modos de escala](screenshots/scaling-modes.png)
-
 *Read this in [English](README.md).*
 
 ## Design
